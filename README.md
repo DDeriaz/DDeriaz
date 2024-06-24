@@ -7,9 +7,8 @@ I am a Data Scientist and Statistician with a strong background in biomedical re
 ## Skills
 
 - **Statistical Analysis**: Proficient in R, Stata, and SAS for conducting complex data analyses.
-- **Medical Coding and Knowledge**: Experienced in medical coding and knowledge for health registries and research projects.
-- **Research Collaboration**: Strong track record of collaborating with scientific teams on research studies.
-- **Statistical Analysis Plans (SAP)**: Skilled in developing and executing comprehensive SAPs for clinical and epidemiological studies.
+- **Medical Knowledge**: Comprehensive understanding of medical physiology and epidemiology.
+
 
 ## Interests
 
